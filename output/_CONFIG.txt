@@ -1,0 +1,5 @@
+SECTIONS_FILEPATH=_SECTIONS.txt
+BUILDNAME=Pre-report-TFE-Pucci
+REFERENCES=references.bib
+TEMPLATE=template.tex
+CSL=../elsevier-with-titles

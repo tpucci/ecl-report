@@ -1,0 +1,22 @@
+---
+author:
+- lastname: Pucci
+  firstname: Thomas
+tags: [rapport préliminaire, TFE, BAM, react, mobile, agile, lean]
+abstract: |
+geometry: a4paper, portrait, margin=.8in
+date: 12/03/2017
+title: Rapport préliminaire au TFE
+subtitle: Travail de Fin d'Étude chez Theodo Academy
+subsubtitle: [Développement agile d'applications mobiles,Entreprise BAM]
+roles:
+- lastname: Pucci
+  firstname: Thomas
+  affiliation: Stagiaire
+  contact: thomas.pucci@ecl13.ec-lyon.fr
+others:
+- key: Date de début du stage
+  value: 03/04/2017
+listings: true
+
+...
